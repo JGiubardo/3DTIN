@@ -21,4 +21,4 @@ Code is run through the python command window:
     ...
     [TN.V3] [TN.V4] [TN.V5]
 
-Where each of the Triangle vertex is a reference to a to the point inserted based on it's position on it's insertion order. `insert.txt` is included as an example of this format.
+Where each of the Triangle vertex is a reference to a point inserted based on it's position in the insertion order. `insert.txt` is included as an example of this format.
